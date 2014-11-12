@@ -1,3 +1,10 @@
 body {
-background: url(ellacatherine.github.io/home/portfolio/italy.jpg)no-repeat top center #fffff;
+   background-image: url("http://ellacatherine.github.io/home/portfolio/italy.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+	}
+  
+  #wrap {
+  width:960px;
+  margin:0 auto;
 }
