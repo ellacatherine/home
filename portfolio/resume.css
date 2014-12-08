@@ -1,0 +1,87 @@
+body{
+background-image:url("http://ellacatherine.github.io/home/portfolio/bluebackground.jpg");
+  background-repeat: repeat;
+  }
+
+
+div {
+	border-radius: 50px;
+}
+
+#header {
+	position: absolute;
+   z-index: 1;
+	width: 850px;
+	height: 300px;
+	margin-top: 25px;
+  margin-left: 25px;
+  margin-right:25px;
+  
+	background:
+    url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
+	opactiy:.8;
+}
+
+#name {
+	float:left;
+   position:absolute;
+	margin-left: 40px;
+	padding-top: 210px;
+	font-size: 40px;
+	font-family: Brush Script MT;
+	color: #ffffff;
+}
+
+a:hover {
+	;
+}
+
+#content {
+	z-index:-1;
+	position: relataive;
+	float: center;
+	margin:auto;
+	width: 900px;
+	height: 1200px;
+	background-color: #ffffff;
+	
+}
+ 
+#navbar {
+	position: absolute;
+  margin-top:330px;
+  
+}
+
+ ul{
+   list-style-type:none;
+   margin-left:30px;
+ }
+
+li{
+  display:inline;
+  padding: 30px;
+  font-family:Papyrus; 
+  font-size:25px;
+  color:#799c4b;
+  }
+
+img {
+  margin-top:420px;
+  }
+
+button {
+  position:relative;
+  height:75px;
+  width:200px;
+  border-radius:10px;
+  margin-top:10px;
+  background-color:#799c4b;
+}
+
+a{
+  text-decoration:none;
+  font-family:Goudy Old Style Bold;
+  color: #ffffff;
+  font-size:20px;
+}

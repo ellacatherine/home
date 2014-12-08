@@ -1,0 +1,98 @@
+body{
+background-image:url("http://ellacatherine.github.io/home/portfolio/bluebackground.jpg");
+  background-repeat:repeat;
+  }
+
+
+div {
+	border-radius: 50px;
+}
+
+#header {
+	position: absolute;
+   z-index: 1;
+	width: 850px;
+	height: 300px;
+	margin-top: 30px;
+  margin-left: 27px;
+  
+	background:
+    url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
+	opacity:.8;
+}
+
+#name {
+	float:left;
+	margin-left: 40px;
+	padding-top: 210px;
+	font-size: 40px;
+	font-family: Brush Script MT;
+	color: #ffffff;
+}
+
+a:hover {
+	;
+}
+
+#content {
+	z-index:-1;
+	position: relataive;
+	float: center;
+	margin:auto;
+	width: 900px;
+	height: 3870px;
+	background-color: #ffffff;
+	
+}
+ 
+#navbar {
+	position: absolute;
+  margin-top:330px;
+  
+}
+
+ ul{
+   list-style-type:none;
+ }
+
+li{
+  display:inline;
+  text-align:center;
+  padding: 30px;
+  font-family:Papyrus; 
+  font-size:25px;
+  color:#799c4b;
+  }
+
+
+
+.hovergallery img{ 
+-webkit-transform:scale(0.8); 
+-moz-transform:scale(0.8); 
+-o-transform:scale(0.8);  
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s; 
+-o-transition-duration: 0.5s;  
+opacity: 0.7; 
+margin:400px -40px -440px 0px;
+
+} 
+
+.hovergallery img:hover{ 
+-webkit-transform:scale(1.1); 
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1); 
+box-shadow:5px 0px 0px gray;  
+-webkit-box-shadow:5px 0px 0px gray; 
+-moz-box-shadow:5px 0px 0px gray; 
+opacity: 5; 
+} 
+img{
+  width:250px;
+  height:250px;
+  
+  
+}
+</style> 
+
+
