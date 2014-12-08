@@ -1,0 +1,97 @@
+body{
+background-image:url("http://ellacatherine.github.io/home/portfolio/bluebackground.jpg");
+  background-repeat:repeat;
+  }
+
+
+div {
+	border-radius: 50px;
+}
+
+#header {
+	position: absolute;
+   z-index: 1;
+	width: 850px;
+	height: 300px;
+	margin-top: 25px;
+  margin-left: 25px;
+  
+	background:
+    url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
+opacity:.8;
+}
+
+#name {
+	float:left;
+   position:absolute;
+	margin-left: 40px;
+	padding-top: 210px;
+	font-size: 40px;
+	font-family: Brush Script MT;
+	color: #ffffff;
+}
+
+a:hover {
+	;
+}
+
+#content {
+	z-index:-1;
+	position: relataive;
+	float: center;
+	margin:auto;
+	width: 900px;
+	height: 1000px;
+	background-color: #ffffff;
+	
+}
+ 
+#navbar {
+	position: absolute;
+  margin-top:330px;
+  
+}
+
+ ul{
+   list-style-type:none;
+  
+ }
+
+li{
+  display:inline;
+  text-align:center;
+  padding: 30px;
+  font-family:Papyrus; 
+  font-size:25px;
+  color:#799c4b;
+  }
+
+
+img {
+  height: 250px;
+  width: 250px;
+  margin-top: 450px;
+  margin-left: 27px;
+}
+
+#text {
+  
+}
+  
+h1 {
+  margin-top:-210px;
+  margin-left:300px;
+  margin-right:20px;
+  text-align:left;
+  font-family:Goudy Old Style;
+  font-size:20px;
+  color: #999999;
+  }
+
+a {
+  text-decoration:none;
+  color:#799c4b;
+  font-family:Goudy Old Style Bold;
+  font-size: 20px;
+  margin-left: 650px;
+}
