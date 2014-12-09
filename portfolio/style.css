@@ -2,31 +2,28 @@ body{
 background-image:url("http://ellacatherine.github.io/home/portfolio/bluebackground.jpg");
   background-repeat:repeat;
   }
-
-
+  
 div {
 	border-radius: 50px;
 }
-
 #header {
 	position: absolute;
    margin-top:25px;
    margin-left:25px;
-   margin-right;25px;
+   margin-right:25px;
    z-index: 1;
-	width: 850px;
-	height: 340px;
-  
-	background:  url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
+   width: 850px;
+   height: 340px;
+  background:  url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
   opacity:.8;
 }
 
-#name {
+name {
 	float:left;
 	margin-left: 40px;
 	padding-top: 245px;
 	font-size: 40px;
-	font-family: Brush Script MT;
+	font-family: Brush Script MT Bold;
 	color: #ffffff;
 }
 
