@@ -38,7 +38,7 @@ a:hover {
 
 #content {
 	z-index:-1;
-	position: relative;
+	position: relataive;
 	margin:auto;
 	width: 900px;
 	height: 1300px;
