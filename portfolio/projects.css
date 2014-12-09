@@ -36,8 +36,7 @@ a:hover {
 
 #content {
 	z-index:-1;
-	position: relataive;
-	float: center;
+	position:relative;
 	margin:auto;
 	width: 900px;
 	height: 1000px;
@@ -91,8 +90,6 @@ h2{
   margin-left:27px;
 }
   
-  
-  }
 h3 {
   margin-left:27px;
   margin-top:440px;

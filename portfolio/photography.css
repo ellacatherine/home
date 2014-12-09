@@ -31,13 +31,11 @@ div {
 }
 
 a:hover {
-	;
 }
 
 #content {
 	z-index:-1;
-	position: relataive;
-	float: center;
+	position: relative;
 	margin:auto;
 	width: 900px;
 	height: 3870px;
@@ -48,8 +46,7 @@ a:hover {
 #navbar {
 	position: absolute;
   margin-top:330px;
-  
-}
+ }
 
  ul{
    list-style-type:none;
@@ -94,9 +91,7 @@ opacity: 5;
 img{
   width:250px;
   height:250px;
-  
-  
-}
-</style> 
+  }
+
 
 
