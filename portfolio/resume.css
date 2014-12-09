@@ -19,7 +19,7 @@ div {
   
 	background:
     url(http://ellacatherine.github.io/home/portfolio/italy.jpg); 
-	opacity:.8;
+  opacity:.8;
 }
 
 #name {
@@ -55,7 +55,6 @@ a:hover {
 
  ul{
    list-style-type:none;
-   margin-left:30px;
  }
 
 li{
@@ -65,24 +64,18 @@ li{
   font-size:25px;
   color:#799c4b;
   }
+a{
+  text-decoration:none;
+  color:#799c4b;
+}
 
 img {
   margin-top:420px;
   width:600px;
   }
 
-button {
-  position:relative;
-  height:75px;
-  width:200px;
-  border-radius:10px;
-  margin-top:10px;
-  background-color:#799c4b;
-}
-
-a{
-  text-decoration:none;
-  font-family:Goudy Old Style Bold;
-  color: #ffffff;
-  font-size:20px;
+h1
+{
+  font-family:Goudy Old Style;
+  color:#799c4b;
 }
