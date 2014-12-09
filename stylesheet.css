@@ -1,0 +1,36 @@
+body {
+	font-family: Verdana, Arial, Papyrus;
+	background-color:#799c4b;
+	color:#ffffff;
+	}
+	
+h1 {
+	font-size:32px;
+	color:#ffffff;
+	background-color:#006600;
+	}
+	
+h2 {
+	font-size:28px;
+	color:#ffffff;
+	background-color:#799c4b;
+	}
+h3 {
+	font-size:24px;
+	color:#ffffff;
+	background-color:#799c4b;
+	}
+h4, h5, h6 {
+	font-size:18px;
+	color:#ffffff;
+	background-color:#799c4b;
+	}
+
+a {
+	text-decoration:none;
+	color:#ffffff;
+	}
+	
+a:hover {
+	color:#00ff00;
+	}
