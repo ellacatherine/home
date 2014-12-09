@@ -32,7 +32,6 @@ opacity:.8;
 }
 
 a:hover {
-	;
 }
 
 #content {
@@ -66,12 +65,11 @@ li{
   color:#799c4b;
   }
 
-
-img {
-  height: 250px;
-  width: 250px;
-  margin-top: 450px;
-  margin-left: 27px;
+a {
+  text-decoration:none;
+  color:#799c4b;
+ 
+ 
 }
 
 #text {
@@ -88,10 +86,24 @@ h1 {
   color: #999999;
   }
 
-a {
-  text-decoration:none;
+h2{
+  font-family:Goudy Old Style;
+  margin-left:27px;
+}
+  
+  
+  }
+h3 {
+  margin-left:27px;
+  margin-top:440px;
+  font-family:Goudy Old Style;
+  font-size:20px;
   color:#799c4b;
-  font-family:Goudy Old Style Bold;
-  font-size: 20px;
-  margin-left: 650px;
+}
+img {
+  height: 250px;
+  width: 250px;
+  margin-top: 400px;
+  margin-left: 27px;
+ 
 }
