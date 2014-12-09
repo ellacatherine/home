@@ -45,25 +45,22 @@ a:hover {
 }
  
 #navbar {
-	position: absolute;
+position:absolute;
   margin-top:365px;
-  
+  }
+ul {
+  list-style-type:none;
 }
-
- ul{
-   list-style-type:none;
-  
- 
- }
-
-li{
+li {
   display:inline;
   text-align:center;
-  padding: 30px;
-  font-family:Papyrus; 
+  padding:30px;
+  font-family:Papyrus;
   font-size:25px;
-  }
-a {text-decoration:none;
+}
+
+a {
+  text-decoration:none;
   color:#799c4b;
 }
 
@@ -98,5 +95,4 @@ h2 {
   font-size: 20px;
   color: #999999;
 }
-
 
